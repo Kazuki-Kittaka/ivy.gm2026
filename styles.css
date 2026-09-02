@@ -54,7 +54,7 @@ main {
    ========================================== */
 .thumbnail-theater {
     width: 100vw;
-    margin-left: calc(-50vw + 50%); /* 画面端まで広げる */
+    margin-left: calc(-50vw + 50%);
     padding: 20px 0;
     overflow: hidden;
     cursor: grab;
@@ -122,7 +122,7 @@ h1 {
 }
 
 .hero-lead {
-    color: #aaa;
+    color: #ffffff;
     font-size: 1.1rem;
     font-weight: 400;
     margin: 0;
@@ -269,7 +269,7 @@ footer {
     border-top: 1px solid rgba(255,255,255,0.05);
     text-align: center;
 }
-footer p { font-size: 13px; color: #777; line-height: 1.6; }
+footer p { font-size: 13px; color: #fff; line-height: 1.6; }
 
 .top-button {
     padding: 10px 25px;
