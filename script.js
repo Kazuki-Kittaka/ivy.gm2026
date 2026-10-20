@@ -20,6 +20,7 @@ const THUMBNAILS = [
     { src: 'img/oshige.jpg', alt: 'オススメゲーム紹介' },
     { src: 'img/endfiled.png', alt: 'エンドフィールドファンサイト' },
     { src: 'img/daigojinkaku.png', alt: '第五人格入門' },
+    { src: 'img/torrikaru.png', alt: 'もちほっぺ日和' },
 ];
 
 // Fisher-Yatesアルゴリズムで配列をシャッフル
